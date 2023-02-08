@@ -12,11 +12,19 @@
 </div>
   
   ##
+
+
+<br/>
+ <div width="100%">
+    <a href="https://github.com/miguezzz/github-readme-stats"><img alt="Victor's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=miguezzz&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&width="50%"" /></a>
+  <a href="https://github.com/miguezzz/github-readme-stats"><img alt="Victor's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguezzz&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&width="50%"" /></a>
+    </div>
+  <br/>
  
-<div> 
+ 
+  <div> 
 
   <a href="https://instagram.com/miguezzv" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:dev.miguezz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/victor-miguez-29065a236/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
