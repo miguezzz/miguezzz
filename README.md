@@ -2,7 +2,7 @@
 
 <div style="display: inline_block"><br>
 
-  Atualmente, estou aprendendo as seguintes tecnologias:          
+  Atualmente, estou aprendendo as seguintes linguagens:          
   
   
   <img align="center" alt="Vic-cpp" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
