@@ -16,11 +16,7 @@
 
 
 <br/>
- <div width="100%">
-    <a href="https://github.com/miguezzz/github-readme-stats"><img alt="Victor's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=miguezzz&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&width="50%"" /></a>
-  <a href="https://github.com/miguezzz/github-readme-stats"><img alt="Victor's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguezzz&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&width="50%"" /></a>
-    </div>
-  <br/>
+
  
  
   <div> 
