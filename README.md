@@ -1,6 +1,7 @@
 ## Olá, me chamo Victor!
 
 <div style="display: inline_block"><br>
+  
   Atualmente, estou aprendendo as seguintes linguagens:          
   
   
