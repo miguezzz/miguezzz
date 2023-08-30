@@ -10,6 +10,7 @@
   <img align="center" alt="Vic-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vic-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vic-Java" height="35" width="40" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png">
+  <img align="center" alt="Vic-Java" height="35" width="40" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png">
 </div>
   
   ##
