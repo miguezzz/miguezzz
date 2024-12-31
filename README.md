@@ -14,9 +14,9 @@
   <img align="center" alt="Vic-PY" height="36" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
   <img align="center" alt="Vic-IPYNB" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg"/>
   -->
-  <img align="center" alt="Vic-GIT" height="35" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Vic-DOCKER" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
   <img align="center" alt="Vic-SQL" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
+  <img align="center" alt="Vic-GIT" height="35" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
           
 </div>
   
