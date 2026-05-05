@@ -1,40 +1,42 @@
 ## Olá, me chamo Victor!
 
-<div style="display: inline_block"><br>
-  <!-- <img align="center" alt="Vic-C" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/> -->
-  <!-- <img align="center" alt="Vic-CPP" height="34" width="30" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"> -->
-  <!-- <img align="center" alt="Vic-JAVA" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> -->
-  <!-- <img align="center" alt="Vic-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> -->
-  <!-- <img align="center" alt="Vic-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> -->
-  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="NODE" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
-  <img align="center" alt="NESTJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
-  <img align="center" alt="FASTIFY" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" />
-  <img align="center" alt="REACT" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img align="center" alt="NEXT" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-  <img align="center" alt="AWS" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-  <img align="center" alt="DOCKER" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
-  <img align="center" alt="SQL" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
-  <img align="center" alt="REDIS" height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
-  <img align="center" alt="KAFKA" height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" />
-  <img align="center" alt="GIT" height="35" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-          
-</div>
-  
-  ##
+Sou um Desenvolvedor Full Stack e estudante de Ciência da Computação, focado em criar aplicações robustas e escaláveis. Tenho forte interesse em arquitetura de software (como princípios SOLID e Clean Architecture) e infraestrutura em nuvem.
 
+### Tecnologias e Ferramentas
+
+<p align="left">
+  <img alt="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="TypeScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img alt="Node.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
+  <img alt="NestJS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
+  <img alt="Fastify" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" />
+  <img alt="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img alt="Next.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+  <img alt="AWS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+  <img alt="Docker" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
+  <img alt="PostgreSQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
+  <img alt="SQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
+  <img alt="Redis" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
+  <img alt="Kafka" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" />
+  <img alt="Git" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+</p>
+
+### O que estou construindo
+
+*   Finalizando um **sistema ERP customizado**, integrando módulos de controle logístico, estoque e financeiro.
+*   Desenvolvendo o desenvolvimento de um **SaaS de Gestão de Propriedades (PMS)** com facilitadores movidos por IA.
+*   **Foodiary**, um aplicativo de acompanhamento nutricional impulsionado por IA.
+
+### Como me encontrar
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/victor-miguez-29065a236/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:dev.miguezz@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
 
 <br/>
-
- 
- 
-  <div> 
-  <a href="https://www.linkedin.com/in/victor-miguez-29065a236/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:dev.miguezz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
-</div>
-
-
-
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
